@@ -1,0 +1,29 @@
+{
+  "name": "line-chart",
+  "version": "1.0.0",
+  "description": "Renders a line chart based on two arrays of numbers (x and y axes)",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syntropy-studio-blocks/line-chart.git"
+  },
+  "keywords": [
+    "syntropy-studio-block",
+    "renderer",
+    "line",
+    "chart",
+    "graph"
+  ],
+  "author": "Angus Russell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syntropy-studio-blocks/line-chart/issues"
+  },
+  "homepage": "https://github.com/syntropy-studio-blocks/line-chart#readme",
+  "dependencies": {
+    "chart.js": "^2.8.0"
+  }
+}

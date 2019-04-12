@@ -1,0 +1,22 @@
+{
+  "source": "code.js",
+  "inputs": [
+    {
+      "id": "xData",
+      "type": "link"
+    },
+    {
+      "id": "yData",
+      "type": "link"
+    },
+    {
+      "id": "xLabel",
+      "type": "text"
+    },
+    {
+      "id": "yLabel",
+      "type": "text"
+    }
+  ],
+  "outputs": []
+}
